@@ -6,6 +6,8 @@ Nothing special, just for fun.
 
 ![ai](https://github.com/rollingstarky/Python-Voice-Assistant/blob/master/screenshots/ai1.PNG?raw=true)
 
+<embed src='http://player.youku.com/player.php/sid/XNDA4NDQ1OTI0NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+
 ### Requirements
 * [PyAudio](https://pypi.org/project/PyAudio/)
 * [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
